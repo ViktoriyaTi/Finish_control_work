@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\bin\Debug\net6.0\main.exe
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\bin\Debug\net6.0\main.deps.json
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\bin\Debug\net6.0\main.runtimeconfig.json
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\bin\Debug\net6.0\main.dll
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\bin\Debug\net6.0\main.pdb
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.dll
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\refint\main.dll
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.pdb
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\main.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GB\Finish_control_work\main_program\obj\Debug\net6.0\ref\main.dll

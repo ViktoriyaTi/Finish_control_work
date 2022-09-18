@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main\\main.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main_program\\main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main\\main.csproj": {
+    "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main_program\\main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main\\main.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main_program\\main.csproj",
         "projectName": "main",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main\\main.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main_program\\main.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\GB\\Finish_control_work\\main_program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
